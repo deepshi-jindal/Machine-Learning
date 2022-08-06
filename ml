@@ -26,3 +26,14 @@ Notation:
 x="input" variable feature
 y="output" or "target" variable
 m=number of training examples
+
+equation is y=ax+b (for linear)
+
+cost function: tells how model is working .
+
+J(w,b)=(1/2m)summationof((y^(^i) - y^i)^2
+i=1 to m
+
+
+
+
